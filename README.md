@@ -19,7 +19,7 @@
 Asser Saadaoui — Tunis, Tunisia
 
 > status
-Chairman, OSSEC Club (ENSI)
+Chairman, OSSEC Club
 Treasurer, CPS
 Member, IEEE ENSI Student Branch
 
