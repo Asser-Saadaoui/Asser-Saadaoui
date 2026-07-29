@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./trafalgar law header.jpg.jpg" alt="header" width="100%" />
+  <img src="./trafalgar%20law%20header.jpg" alt="header" width="100%" />
 </div>
 
 <br>
